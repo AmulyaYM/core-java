@@ -1,7 +1,7 @@
-class CustomerRunner {
-    public static void main(String[] customer) {
+class CountryRunner {
+    public static void main(String[] country) {
         System.out.println("Main method started");
-        Customer.address();
+        Countryy.run();
         System.out.println("Main method ended");
     }
 }
